@@ -1,4 +1,4 @@
 # git-alias
 
-To load the aliases:
-`<./load_git_aliases.sh>`
+To load the aliases run:
+`./load_git_aliases.sh`
